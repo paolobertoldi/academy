@@ -1,0 +1,8 @@
+Calculate the cost of binding a thesis knowing that it depends on:
+
+Number of black and white pages (10 € cents)
+Number of color pages (15 € cents)
+From the price of the cover (10 €)
+
+Given in input the number of black and white pages, 
+the number of color pages calculate the cost.

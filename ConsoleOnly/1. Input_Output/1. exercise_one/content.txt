@@ -1,0 +1,2 @@
+Given the side of an input square,
+calculate and display its perimeter and area.

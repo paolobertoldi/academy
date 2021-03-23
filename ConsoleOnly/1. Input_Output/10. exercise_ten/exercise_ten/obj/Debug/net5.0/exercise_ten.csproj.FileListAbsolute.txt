@@ -1,0 +1,15 @@
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\bin\Debug\net5.0\exercise_ten.exe
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\bin\Debug\net5.0\exercise_ten.deps.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\bin\Debug\net5.0\exercise_ten.runtimeconfig.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\bin\Debug\net5.0\exercise_ten.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\bin\Debug\net5.0\exercise_ten.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\bin\Debug\net5.0\ref\exercise_ten.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\bin\Debug\net5.0\exercise_ten.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\exercise_ten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\exercise_ten.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\exercise_ten.AssemblyInfo.cs
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\exercise_ten.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\exercise_ten.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\ref\exercise_ten.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\exercise_ten.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_ten\exercise_ten\obj\Debug\net5.0\exercise_ten.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\bin\Debug\net5.0\exercise_six.exe
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\bin\Debug\net5.0\exercise_six.deps.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\bin\Debug\net5.0\exercise_six.runtimeconfig.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\bin\Debug\net5.0\exercise_six.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\bin\Debug\net5.0\exercise_six.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\bin\Debug\net5.0\ref\exercise_six.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\bin\Debug\net5.0\exercise_six.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.csprojAssemblyReference.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.AssemblyInfo.cs
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\ref\exercise_six.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\6. exercise_six\exercise_six\obj\Debug\net5.0\exercise_six.genruntimeconfig.cache

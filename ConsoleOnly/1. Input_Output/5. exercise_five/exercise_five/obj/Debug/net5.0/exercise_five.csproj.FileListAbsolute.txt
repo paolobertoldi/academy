@@ -1,0 +1,15 @@
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\bin\Debug\net5.0\exercise_five.exe
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\bin\Debug\net5.0\exercise_five.deps.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\bin\Debug\net5.0\exercise_five.runtimeconfig.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\bin\Debug\net5.0\exercise_five.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\bin\Debug\net5.0\exercise_five.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\bin\Debug\net5.0\ref\exercise_five.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\bin\Debug\net5.0\exercise_five.pdb
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\exercise_five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\exercise_five.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\exercise_five.AssemblyInfo.cs
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\exercise_five.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\exercise_five.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\ref\exercise_five.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\exercise_five.pdb
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_five\exercise_five\obj\Debug\net5.0\exercise_five.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\bin\Debug\net5.0\exercise_three.exe
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\bin\Debug\net5.0\exercise_three.deps.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\bin\Debug\net5.0\exercise_three.runtimeconfig.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\bin\Debug\net5.0\exercise_three.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\bin\Debug\net5.0\exercise_three.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\bin\Debug\net5.0\ref\exercise_three.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\bin\Debug\net5.0\exercise_three.pdb
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.csprojAssemblyReference.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.AssemblyInfo.cs
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\ref\exercise_three.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.pdb
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_three\exercise_three\obj\Debug\net5.0\exercise_three.genruntimeconfig.cache

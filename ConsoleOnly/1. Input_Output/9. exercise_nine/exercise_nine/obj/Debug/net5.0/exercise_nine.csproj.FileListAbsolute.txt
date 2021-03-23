@@ -1,0 +1,15 @@
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\bin\Debug\net5.0\exercise_nine.exe
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\bin\Debug\net5.0\exercise_nine.deps.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\bin\Debug\net5.0\exercise_nine.runtimeconfig.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\bin\Debug\net5.0\exercise_nine.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\bin\Debug\net5.0\exercise_nine.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\bin\Debug\net5.0\ref\exercise_nine.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\bin\Debug\net5.0\exercise_nine.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\exercise_nine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\exercise_nine.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\exercise_nine.AssemblyInfo.cs
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\exercise_nine.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\exercise_nine.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\ref\exercise_nine.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\exercise_nine.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_nine\exercise_nine\obj\Debug\net5.0\exercise_nine.genruntimeconfig.cache

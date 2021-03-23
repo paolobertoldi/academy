@@ -1,0 +1,15 @@
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\bin\Debug\net5.0\exercise_eleven.exe
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\bin\Debug\net5.0\exercise_eleven.deps.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\bin\Debug\net5.0\exercise_eleven.runtimeconfig.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\bin\Debug\net5.0\exercise_eleven.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\bin\Debug\net5.0\exercise_eleven.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\bin\Debug\net5.0\ref\exercise_eleven.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\bin\Debug\net5.0\exercise_eleven.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\exercise_eleven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\exercise_eleven.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\exercise_eleven.AssemblyInfo.cs
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\exercise_eleven.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\exercise_eleven.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\ref\exercise_eleven.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\exercise_eleven.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercise_eleven\exercise_eleven\obj\Debug\net5.0\exercise_eleven.genruntimeconfig.cache

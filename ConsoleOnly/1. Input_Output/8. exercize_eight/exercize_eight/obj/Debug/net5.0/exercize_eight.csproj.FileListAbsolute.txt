@@ -1,0 +1,15 @@
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\bin\Debug\net5.0\exercize_eight.exe
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\bin\Debug\net5.0\exercize_eight.deps.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\bin\Debug\net5.0\exercize_eight.runtimeconfig.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\bin\Debug\net5.0\exercize_eight.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\bin\Debug\net5.0\exercize_eight.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\bin\Debug\net5.0\ref\exercize_eight.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\bin\Debug\net5.0\exercize_eight.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\exercize_eight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\exercize_eight.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\exercize_eight.AssemblyInfo.cs
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\exercize_eight.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\exercize_eight.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\ref\exercize_eight.dll
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\exercize_eight.pdb
+C:\Users\pfber\Desktop\Academy\ConsoleOnly\1. Input_Output\exercize_eight\exercize_eight\obj\Debug\net5.0\exercize_eight.genruntimeconfig.cache

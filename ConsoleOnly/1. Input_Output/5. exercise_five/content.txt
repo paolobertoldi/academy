@@ -1,0 +1,2 @@
+Given the (x, y) coordinates of two points in the Cartesian plane, 
+calculate the distance between the two points.

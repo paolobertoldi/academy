@@ -1,0 +1,3 @@
+Calculate the cost of renting a car knowing that the rate is 
+50 euros / day plus 2 € / km. The program receives as input the 
+number of days, the km at the time of rental and the km at delivery.

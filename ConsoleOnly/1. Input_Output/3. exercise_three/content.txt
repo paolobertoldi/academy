@@ -1,0 +1,2 @@
+Determine the area and perimeter of a rectangle trapezoid by 
+knowing the measurements of the bases and the height.

@@ -1,0 +1,2 @@
+Calculate the cost of DVD rental by reading the number of DVDs 
+in input knowing that the rental cost for each is 10 €.

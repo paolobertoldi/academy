@@ -1,0 +1,16 @@
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\bin\Debug\net5.0\exercise_one.exe
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\bin\Debug\net5.0\exercise_one.deps.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\bin\Debug\net5.0\exercise_one.runtimeconfig.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\bin\Debug\net5.0\exercise_one.runtimeconfig.dev.json
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\bin\Debug\net5.0\exercise_one.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\bin\Debug\net5.0\ref\exercise_one.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\bin\Debug\net5.0\exercise_one.pdb
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.csprojAssemblyReference.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.AssemblyInfoInputs.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.AssemblyInfo.cs
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.csproj.CoreCompileInputs.cache
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\ref\exercise_one.dll
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.pdb
+C:\Users\pfber\Desktop\School\ConsoleOnly\Input_and_Output_Exercise\exercise_one\exercise_one\obj\Debug\net5.0\exercise_one.genruntimeconfig.cache

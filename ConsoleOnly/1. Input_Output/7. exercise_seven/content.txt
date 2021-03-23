@@ -1,0 +1,1 @@
+Input data three numbers (x, y, z) calculate the average.

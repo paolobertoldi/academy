@@ -1,0 +1,17 @@
+A house painter has to paint a rectangular wall. The painter 
+knows the height and width of the wall. The painter knows that 
+with a liter of paint he can paint 5 m2. To calculate:
+
+
+-the number of liters it needs knowing that you need to add 10% 
+to be sure you can finish the job;
+
+-The cost in € for the purchase of the paint knowing that each 
+liter of paint costs € 13 / l + 22% VAT;
+
+-The time (in hours) that the painter takes knowing that he can 
+paint 15 m2 of wall per hour;
+
+-The total cost for carrying out the entire work (paint + labor) 
+knowing that the painter costs € 25 per hour.
+
